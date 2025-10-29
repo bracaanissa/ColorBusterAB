@@ -30,3 +30,15 @@ Ensure JUnit 5 is in your classpath, then run:
 
 ```bash
 mvn test
+
+💡 How to Run the Game
+
+Compile and run the Main.java file from the Model package:
+
+javac Model/*.java
+java Model.Main
+
+The game window will open showing an 8x8 board of randomly colored tiles.
+
+🧑‍💻 Author
+Anissa Braca
